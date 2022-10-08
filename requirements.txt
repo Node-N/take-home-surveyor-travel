@@ -1,0 +1,3 @@
+networkx==2.6.3
+pytest==7.1.1
+utm==0.7.0
